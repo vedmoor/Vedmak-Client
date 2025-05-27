@@ -1,4 +1,9 @@
 [Vedmak Client](screenshot.png) 
+<p align="center">
+  <a href='https://postimg.cc/2V0HkkKV' target='_blank'><img src='https://i.postimg.cc/8zSxbsdB/screenshot.jpg' border='0' alt='screenshot'/></a>
+</p>
+
+
 **Кодер:** `@vedmoor`  
 **Версия:** 1.0  
 **Цена:** Бесплатно  
