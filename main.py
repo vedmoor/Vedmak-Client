@@ -75,7 +75,7 @@ Anime.Fade(
 )
 
 
-webbrowser.open("https://t.me/+3lw7N-sVvCE5YzI6", new=2)
+webbrowser.open("https://t.me/+d_HxYLRyzBA0MGEy", new=2)
 
 
 # End Intro
